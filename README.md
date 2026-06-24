@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 # 🎬 Netflix Analytics — Executive Content Strategy Project
 
 An end-to-end data analytics project that turns the Netflix Titles catalog
