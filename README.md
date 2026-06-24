@@ -1,3 +1,4 @@
+
 # 🎬 Netflix Analytics — Executive Content Strategy Project
 
 An end-to-end data analytics project that turns the Netflix Titles catalog
@@ -259,3 +260,6 @@ than overclaiming:
 - The genre recommender is content-based (text similarity), not the
   collaborative-filtering / viewing-behavior system Netflix actually runs in
   production — that data isn't in this public dataset.
+=======
+# Netflix-Analytics
+>>>>>>> 3dbbea2ce7e6d79818cf8a62f9f1319d80070479
